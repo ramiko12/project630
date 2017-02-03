@@ -11,4 +11,8 @@
 	- food picker
 	- attendance checker
 4. Fact Checker
-5.
+5. Helper for moving to new cities
+	-breaks down the costs of living for survival
+	based on the minimum wage and/or monthly income
+	compares with prices for food , transportation
+	and entertainment 
